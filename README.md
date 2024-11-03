@@ -35,7 +35,7 @@ Learn how to use asyncio and aiohttp to fetch remote resources asynchronously.
 [Intro to async Python | Writing a Web Crawler](https://youtu.be/ftmdDlwMwwQ?si=M6CicFzyT14TadTT)(~5:58)(optional)
 
 #### Requirements
-Fetch the content of the following URLs asynchronously and save them locally.
+Fetch the content of the following URLs asynchronously and save them locally in `HW1/main.py`.
 - https://example.com -> example.html
 - https://github.com/NTUEELightDance/LightDance-Editor/releases/latest/download/editor-blender.zip -> editor-blender.zip
 
